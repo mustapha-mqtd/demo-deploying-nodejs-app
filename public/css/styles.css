@@ -1,4 +1,10 @@
-body{background-color: #fafafa;}
+body{
+    background-color: #fafafa;
+
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
 .meddle-section{
     text-align: center;
     display: table;
@@ -20,4 +26,10 @@ h5{
     font-size: 11pt;
     font-weight: 100;
     font-style: italic;
+}
+p{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    font-size: 10.4pt;
 }
