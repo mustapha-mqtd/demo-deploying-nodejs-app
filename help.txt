@@ -3,3 +3,10 @@
 
 2. Generating a new SSH key and adding it to the ssh-agent
 >
+
+
+
+Links:
+https://help.github.com/categories/authenticating-to-github/
+https://devcenter.heroku.com/articles/git
+https://git-scm.com/docs
